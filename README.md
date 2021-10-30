@@ -23,3 +23,10 @@ Create a database that provides a solution for the following requirements:
 ## IDEAS
 
 - Try yo use a design tool for your database: https://dbdiagram.io/home
+- Tired of dBeaver (and PgAdmin) ? Check out this nice vscode extension :)
+  Name: PostgreSQL
+  Id: ckolkman.vscode-postgres
+  Description: PostgreSQL Management Tool
+  Version: 1.1.19
+  Publisher: Chris Kolkman
+  VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=ckolkman.vscode-postgres
