@@ -19,3 +19,7 @@ Create a database that provides a solution for the following requirements:
   - How would you "manage" the bookings that might be affected?
 - As a MA, I want to accept/deny bookings for specific BC and dates.
   - If a booking is denied, what do you think would happen?
+
+## IDEAS
+
+- Try yo use a design tool for your database: https://dbdiagram.io/home
