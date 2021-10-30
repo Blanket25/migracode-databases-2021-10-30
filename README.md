@@ -13,6 +13,9 @@ Create a database that provides a solution for the following requirements:
 
 - As a manager (MA), I want to set up the available bowling-courts (BC) based on dates.
 - As a bowling player (BP), I want to see the available BC base on dates.
-- As a MA, I want to make a BC available/unavailable for maintenance purposes.
 - As a BP, I want to book a BC for a specific date and time (1h, 2h, ...)
+- As a MA, I want to make a BC available/unavailable for maintenance purposes.
+  - I should be able to specify an end-of-maintenance date.
+  - How would you "manage" the bookings that might be affected?
 - As a MA, I want to accept/deny bookings for specific BC and dates.
+  - If a booking is denied, what do you think would happen?
